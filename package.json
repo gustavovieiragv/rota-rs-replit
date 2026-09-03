@@ -1,0 +1,36 @@
+{
+  "name": "rota-rs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "better-auth": "latest",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "drizzle-orm": "latest",
+    "lucide-react": "^0.469.0",
+    "next": "latest",
+    "next-themes": "latest",
+    "pg": "^8.13.1",
+    "radix-ui": "^1.6.7",
+    "react": "^19",
+    "react-dom": "^19",
+    "sonner": "^2.0.8",
+    "tailwind-merge": "^2.6.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^22",
+    "@types/pg": "^8.11.10",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tailwindcss": "^4",
+    "tw-animate-css": "latest",
+    "typescript": "^5"
+  }
+}
